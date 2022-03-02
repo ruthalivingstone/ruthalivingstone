@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruthalivingstone
 - 👀 I’m interested in learning how the github community works!
-- 🌱 I’m currently learning php & web development 
-- 💞️ I’m looking to collaborate on phthon & matlab projects
+- 🌱 I’m currently working in web development 
+- 💞️ I’m looking to collaborate on python & matlab projects
 - 📫 How to reach me ...
 
 <!---
